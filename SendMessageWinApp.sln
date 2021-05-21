@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageWinApp", "SendMessageWinApp.csproj", "{D219A194-F8A5-4271-BDBE-99B36028FCC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D219A194-F8A5-4271-BDBE-99B36028FCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D219A194-F8A5-4271-BDBE-99B36028FCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D219A194-F8A5-4271-BDBE-99B36028FCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D219A194-F8A5-4271-BDBE-99B36028FCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDFB5CD-0B04-460C-A72C-66A61D55E89C}
+	EndGlobalSection
+EndGlobal

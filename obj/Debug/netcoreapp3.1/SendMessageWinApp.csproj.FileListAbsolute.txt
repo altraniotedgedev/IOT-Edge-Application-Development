@@ -1,0 +1,201 @@
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.exe
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.deps.json
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.json
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.dev.json
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Form1.resources
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Properties.Resources.resources
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.GenerateResource.cache
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfoInputs.cache
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfo.cs
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CoreCompileInputs.cache
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CopyComplete
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.genruntimeconfig.cache
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csprojAssemblyReference.cache
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\C#Demo\AzureIoTSample\SendMessageFromDevice\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.exe
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.deps.json
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.json
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.dev.json
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Form1.resources
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Properties.Resources.resources
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.GenerateResource.cache
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfoInputs.cache
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfo.cs
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CoreCompileInputs.cache
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CopyComplete
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Cloud Internal\Project\IoT_EdgeAppPubSub\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.genruntimeconfig.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.exe
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.deps.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.dev.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\LBIndustrialCtrls.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Form1.resources
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Properties.Resources.resources
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.GenerateResource.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfoInputs.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfo.cs
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CoreCompileInputs.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CopyComplete
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.genruntimeconfig.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\IoT_EdgeAppPubSub_Apr_22\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csprojAssemblyReference.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.exe
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.deps.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.dev.json
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\bin\Debug\netcoreapp3.1\LBIndustrialCtrls.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csprojAssemblyReference.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Form1.resources
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.Properties.Resources.resources
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.GenerateResource.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfoInputs.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfo.cs
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CoreCompileInputs.cache
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CopyComplete
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.dll
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+E:\Suresh Backup E\Suresh_E\Internal IIoT\Project\Suresh\SendMessageWinApp_15_MAR\obj\Debug\netcoreapp3.1\SendMessageWinApp.genruntimeconfig.cache
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.csprojAssemblyReference.cache
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.Form1.resources
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.Properties.Resources.resources
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.GenerateResource.cache
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfoInputs.cache
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.AssemblyInfo.cs
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CoreCompileInputs.cache
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.exe
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.deps.json
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.json
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.runtimeconfig.dev.json
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\SendMessageWinApp.pdb
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Buffers.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Codecs.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Codecs.Mqtt.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Common.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Handlers.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\DotNetty.Transport.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Client.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.csproj.CopyComplete
+C:\SARATH_WORKING\Code Merged\SendMessageWinApp_15_MAR - Copy\obj\Debug\netcoreapp3.1\SendMessageWinApp.genruntimeconfig.cache
