@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp_15_MAR - Copy\\SendMessageWinApp.csproj": {}
+    "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp\\SendMessageWinApp.csproj": {}
   },
   "projects": {
-    "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp_15_MAR - Copy\\SendMessageWinApp.csproj": {
+    "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp\\SendMessageWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp_15_MAR - Copy\\SendMessageWinApp.csproj",
+        "projectUniqueName": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp\\SendMessageWinApp.csproj",
         "projectName": "SendMessageWinApp",
-        "projectPath": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp_15_MAR - Copy\\SendMessageWinApp.csproj",
+        "projectPath": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp\\SendMessageWinApp.csproj",
         "packagesPath": "C:\\Users\\sars\\.nuget\\packages\\",
-        "outputPath": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp_15_MAR - Copy\\obj\\",
+        "outputPath": "C:\\SARATH_WORKING\\Code Merged\\SendMessageWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sars\\AppData\\Roaming\\NuGet\\NuGet.Config",

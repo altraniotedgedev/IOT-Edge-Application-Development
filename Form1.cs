@@ -612,6 +612,9 @@ namespace SendMessageWinApp
 
         private void btnCtlLampON_Click(object sender, EventArgs e)
         {
+            lbLedStandby.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedReset.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedProcess.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
             lbLedLampON.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Blink;
             //SetLEDStatus(lbLedLampON);
             GlobalFunctions.System_State = 10;
@@ -619,6 +622,9 @@ namespace SendMessageWinApp
 
         private void btnCtlStandby_Click(object sender, EventArgs e)
         {
+            lbLedLampON.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedReset.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedProcess.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
             lbLedStandby.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Blink;
             //SetLEDStatus(lbLedStandby);
             GlobalFunctions.System_State = 6;
@@ -626,6 +632,9 @@ namespace SendMessageWinApp
 
         private void btnCtlReset_Click(object sender, EventArgs e)
         {
+            lbLedLampON.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedStandby.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
+            lbLedProcess.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Off;
             lbLedReset.State = LBSoft.IndustrialCtrls.Leds.LBLed.LedState.Blink;
             //SetLEDStatus(lbLedReset);
             GlobalFunctions.System_State = 3;

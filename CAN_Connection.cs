@@ -355,7 +355,17 @@ namespace SendMessageWinApp.canCom
                 {
                     iArbId = 0x3FA;
                     iNumByte = 6;
-                    var bData = new byte[8] { 0x00, 0xE0, 0x04, 0xA5, 0x00, 0x0B, 0x00, 0x00 };
+                    var bData = new byte[8] { 0x00, 0xE0, 0x04, 0xA5, 0x00, 0x00, 0x00, 0x00 };
+                    byte Checksum = 0;
+                    for (int i = 0; i <= bData.Length - 1; i++)
+                    {
+                        if (i > 1)
+                        {
+                            Checksum ^= bData[i];
+                        }
+                    }
+                    Checksum ^= 0xAA;
+                    bData[5] = Checksum;
                     CAN_Connection.AddBroadCastMsg(iArbId, iNumByte, bData);
                 }
                 else
@@ -368,28 +378,69 @@ namespace SendMessageWinApp.canCom
                         iArbId = Convert.ToByte(String.Format("0x0{0}{1}",GlobalFunctions.Sending_Unit_Address_X,GlobalFunctions.Sending_Unit_Address_Y), 16);
                         Console.WriteLine("iArbId:" + iArbId);
                         iNumByte = 7;
-                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0",GlobalFunctions.Sending_Unit_Address_X),16), 0x05, 0x01, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x06, 0x00 };
+                        
+                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0",GlobalFunctions.Sending_Unit_Address_X),16), 0x05, 0x01, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x00, 0x00 };
+                        byte Checksum = 0;
+                        for (int i = 0; i <= bData.Length -1; i++)
+                        {
+                            if(i > 1)
+                            {
+                                Checksum ^= bData[i];
+                            }
+                        }
+                        Checksum ^= 0xAA;
+                        bData[6] = Checksum;
                         CAN_Connection.AddBroadCastMsg(iArbId, iNumByte, bData);
                     }
                     else if (GlobalFunctions.System_State == 6)
                     {
                         iArbId = Convert.ToByte(String.Format("0x0{0}{1}", GlobalFunctions.Sending_Unit_Address_X, GlobalFunctions.Sending_Unit_Address_Y), 16);
                         iNumByte = 7;
-                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x02, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x06, 0x00 };
+                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x02, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x00, 0x00 };
+                        byte Checksum = 0;
+                        for (int i = 0; i <= bData.Length - 1; i++)
+                        {
+                            if (i > 1)
+                            {
+                                Checksum ^= bData[i];
+                            }
+                        }
+                        Checksum ^= 0xAA;
+                        bData[6] = Checksum;
                         CAN_Connection.AddBroadCastMsg(iArbId, iNumByte, bData);
                     }
                     else if (GlobalFunctions.System_State == 10)
                     {
                         iArbId = Convert.ToByte(String.Format("0x0{0}{1}", GlobalFunctions.Sending_Unit_Address_X, GlobalFunctions.Sending_Unit_Address_Y), 16);
                         iNumByte = 7;
-                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x04, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x06, 0x00 };
+                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x04, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x00, 0x00 };
+                        byte Checksum = 0;
+                        for (int i = 0; i <= bData.Length - 1; i++)
+                        {
+                            if (i > 1)
+                            {
+                                Checksum ^= bData[i];
+                            }
+                        }
+                        Checksum ^= 0xAA;
+                        bData[6] = Checksum;
                         CAN_Connection.AddBroadCastMsg(iArbId, iNumByte, bData);
                     }
                     else
                     {
                         iArbId = Convert.ToByte(String.Format("0x0{0}{1}", GlobalFunctions.Sending_Unit_Address_X, GlobalFunctions.Sending_Unit_Address_Y), 16);
                         iNumByte = 7;
-                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x01, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x06, 0x00 };
+                        var bData = new byte[8] { 0x00, Convert.ToByte(String.Format("0x{0}0", GlobalFunctions.Sending_Unit_Address_X), 16), 0x05, 0x01, 0xCC, Convert.ToByte(String.Format("0x{0}", GlobalFunctions.GblPowerLevel), 16), 0x00, 0x00 };
+                        byte Checksum = 0;
+                        for (int i = 0; i <= bData.Length - 1; i++)
+                        {
+                            if (i > 1)
+                            {
+                                Checksum ^= bData[i];
+                            }
+                        }
+                        Checksum ^= 0xAA;
+                        bData[6] = Checksum;
                         CAN_Connection.AddBroadCastMsg(iArbId, iNumByte, bData);
 
                     }
